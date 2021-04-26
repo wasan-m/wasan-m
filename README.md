@@ -13,6 +13,3 @@ My name is Wasan, I'm a responsible and receptive student who seeks position in 
 <summary>:zap: GitHub Statistics</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=zvnms&show_icons=true&theme=nord" width="400px">
 </details>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="msrwasan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://th.linkedin.com/in/msrwasan?trk=profile-badge">Wasan Masiri</a></div>
-              
