@@ -1,6 +1,6 @@
 ## Hi there. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Wasan, I'm a responsible and receptive student who seeks position in IT Support and growth to Data Scientist, creating insights through data analysis using Google Cloud Platform. Currently learning data, cloud and random stuff.
+My name is Wasan, I am very interested in data. Therefore began to study various knowledge related to the profession Data Analyst and Data Scientist, creating insights through data analysis using Google Cloud Platform and machine learning. Currently learning data, cloud and random stuff.
 
 📫  How to reach me
 
