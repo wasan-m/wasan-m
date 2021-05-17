@@ -11,5 +11,5 @@ My name is Wasan, I am very interested in data. Therefore began to study various
 
 <details close>
 <summary>:zap: GitHub Statistics</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=zvnms&show_icons=true&theme=nord" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=wasan-m&show_icons=true&theme=nord" width="400px">
 </details>
