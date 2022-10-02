@@ -5,7 +5,7 @@ My name is Wasan, I am very interested in data. Therefore began to study various
 📫  How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/msrwasan/)
-[![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:msr.wasan@gmail.com)
+[![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:wasan.masiri@gmail.com)
 
 <hr>
 
